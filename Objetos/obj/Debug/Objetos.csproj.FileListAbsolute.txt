@@ -1,0 +1,6 @@
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Objetos\bin\Debug\Objetos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Objetos\obj\Debug\Objetos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Objetos\obj\Debug\Objetos.pdb

@@ -1,0 +1,11 @@
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\bin\Debug\Negocio.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\bin\Debug\Datos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\bin\Debug\Objetos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\bin\Debug\Datos.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\bin\Debug\Objetos.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\obj\Debug\Negocio.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Negocio\obj\Debug\Negocio.pdb

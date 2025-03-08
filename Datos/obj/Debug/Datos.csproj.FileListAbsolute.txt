@@ -1,0 +1,9 @@
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\bin\Debug\Datos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\bin\Debug\Datos.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\bin\Debug\Objetos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\bin\Debug\Objetos.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\obj\Debug\Datos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 7\Lab 2\gestion_productos_xml\Datos\obj\Debug\Datos.pdb
