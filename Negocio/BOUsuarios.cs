@@ -14,24 +14,19 @@ namespace Negocio
         XmlDocument doc;
         string rutaXml;
 
-        public XmlNode CrearUsuario(OBJUsuario user)
+        public void CrearXML(string ruta, string nodoRaiz)
         {
-            XmlNode usuario = doc.CreateElement("Usuario");
+            doc = new XmlDocument();
+            XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", "no");
 
-            XmlElement xIdUsuario = doc.CreateElement("IdUsuario");
-            xIdUsuario.InnerText = user.IdUsuario.ToString();
-            usuario.AppendChild(xIdUsuario);
+            XmlNode nodo = doc.DocumentElement;
+            doc.InsertBefore(xmlDeclaration, nodo);
 
-            XmlElement xNombre = doc.CreateElement("Nombre");
-            xNombre.InnerText = user.Nombre;
-            usuario.AppendChild(xNombre);
+            XmlNode elemento = doc.CreateElement(nodoRaiz);
+            doc.AppendChild(elemento);
 
-            XmlElement xGenero = doc.CreateElement("Genero");
-            xGenero.InnerText = user.Genero;
-            usuario.AppendChild(xNombre);
+            new DAOGeneral().guardarDatos(doc, ruta);
 
-
-            return usuario;
         }
 
         public void LeerXML(string ruta)
@@ -39,6 +34,7 @@ namespace Negocio
             doc = new XmlDocument();
             doc.Load(ruta);
         }
+
 
         public void Registrar(OBJUsuario user, string rutaXml)
         {
@@ -50,6 +46,48 @@ namespace Negocio
             new DAOGeneral().guardarDatos(doc, rutaXml);
 
         }
+        public XmlNode CrearUsuario(OBJUsuario user)
+        {
+            XmlNode usuario = doc.CreateElement("usuario");
+
+            XmlElement xIdUsuario = doc.CreateElement("IdUsuario");
+            xIdUsuario.InnerText = user.IdUsuario.ToString();
+            usuario.AppendChild(xIdUsuario);
+
+            XmlElement xNombre = doc.CreateElement("Nombre");
+            xNombre.InnerText = user.Nombre;
+            usuario.AppendChild(xNombre);
+
+            XmlElement xGenero = doc.CreateElement("Genero");
+            xGenero.InnerText = user.Genero;
+            usuario.AppendChild(xGenero);
+
+
+            return usuario;
+        }
+
+
+        public List<string> ObtenerCedulas(string rutaXml)
+        {
+            List<string> cedulas = new List<string>();
+            XmlDocument doc = new XmlDocument();
+            doc.Load(rutaXml);
+
+            XmlNodeList usuarios = doc.SelectNodes("//usuario");
+            foreach (XmlNode usuario in usuarios)
+            {
+                string cedula = usuario.SelectSingleNode("IdUsuario")?.InnerText;
+                if (!string.IsNullOrEmpty(cedula))
+                {
+                    cedulas.Add(cedula);
+                }
+            }
+
+            return cedulas;
+        }
+
+
+
 
     }
 }

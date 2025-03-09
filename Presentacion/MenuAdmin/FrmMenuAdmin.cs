@@ -42,5 +42,10 @@ namespace Presentacion.MenuAdmin
         {
             MostrarFormulario(new SubMenus.FrmSubMenuCategorias());
         }
+
+        private void btn_AddProducto_Click(object sender, EventArgs e)
+        {
+            //MostrarFormulario(new SubMenus.FrmSubMenuProductos());
+        }
     }
 }

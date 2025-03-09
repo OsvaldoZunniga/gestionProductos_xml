@@ -39,8 +39,11 @@
             this.txt_Calorias = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txt_Stock = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txt_Categoria = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.pnl_Admin = new System.Windows.Forms.Panel();
+            this.btn_AdminZone = new System.Windows.Forms.Button();
             this.pnl_Titulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.pnl_Admin.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnl_Titulo
@@ -69,12 +72,13 @@
             // lbl_CerrarSesion
             // 
             this.lbl_CerrarSesion.AutoSize = true;
-            this.lbl_CerrarSesion.Location = new System.Drawing.Point(591, 351);
+            this.lbl_CerrarSesion.Location = new System.Drawing.Point(557, 351);
             this.lbl_CerrarSesion.Name = "lbl_CerrarSesion";
-            this.lbl_CerrarSesion.Size = new System.Drawing.Size(82, 13);
+            this.lbl_CerrarSesion.Size = new System.Drawing.Size(116, 13);
             this.lbl_CerrarSesion.TabIndex = 12;
             this.lbl_CerrarSesion.TabStop = true;
-            this.lbl_CerrarSesion.Text = "¿Cerrar Sesión?";
+            this.lbl_CerrarSesion.Text = "¿Desea Cerrar Sesión?";
+            this.lbl_CerrarSesion.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lbl_CerrarSesion_LinkClicked);
             // 
             // dataGridView1
             // 
@@ -98,45 +102,74 @@
             // 
             this.txt_Producto.HeaderText = "Producto";
             this.txt_Producto.Name = "txt_Producto";
+            this.txt_Producto.ReadOnly = true;
             // 
             // txt_Precio
             // 
             this.txt_Precio.HeaderText = "Precio";
             this.txt_Precio.Name = "txt_Precio";
+            this.txt_Precio.ReadOnly = true;
             // 
             // txt_Descripcion
             // 
             this.txt_Descripcion.HeaderText = "Descripcion";
             this.txt_Descripcion.Name = "txt_Descripcion";
+            this.txt_Descripcion.ReadOnly = true;
             // 
             // txt_Calorias
             // 
             this.txt_Calorias.HeaderText = "Calorias";
             this.txt_Calorias.Name = "txt_Calorias";
+            this.txt_Calorias.ReadOnly = true;
             // 
             // txt_Stock
             // 
             this.txt_Stock.HeaderText = "Cantidad";
             this.txt_Stock.Name = "txt_Stock";
+            this.txt_Stock.ReadOnly = true;
             // 
             // txt_Categoria
             // 
             this.txt_Categoria.HeaderText = "Categoria";
             this.txt_Categoria.Name = "txt_Categoria";
+            this.txt_Categoria.ReadOnly = true;
+            // 
+            // pnl_Admin
+            // 
+            this.pnl_Admin.BackColor = System.Drawing.Color.Red;
+            this.pnl_Admin.Controls.Add(this.btn_AdminZone);
+            this.pnl_Admin.Location = new System.Drawing.Point(12, 316);
+            this.pnl_Admin.Name = "pnl_Admin";
+            this.pnl_Admin.Size = new System.Drawing.Size(141, 45);
+            this.pnl_Admin.TabIndex = 14;
+            this.pnl_Admin.Visible = false;
+            // 
+            // btn_AdminZone
+            // 
+            this.btn_AdminZone.Location = new System.Drawing.Point(29, 11);
+            this.btn_AdminZone.Name = "btn_AdminZone";
+            this.btn_AdminZone.Size = new System.Drawing.Size(75, 23);
+            this.btn_AdminZone.TabIndex = 0;
+            this.btn_AdminZone.Text = "Zona Admin";
+            this.btn_AdminZone.UseVisualStyleBackColor = true;
+            this.btn_AdminZone.Click += new System.EventHandler(this.btn_AdminZone_Click);
             // 
             // FrmComprar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(685, 373);
+            this.Controls.Add(this.pnl_Admin);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.lbl_CerrarSesion);
             this.Controls.Add(this.pnl_Titulo);
             this.Name = "FrmComprar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Comprar Productos";
             this.pnl_Titulo.ResumeLayout(false);
             this.pnl_Titulo.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.pnl_Admin.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -153,5 +186,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn txt_Calorias;
         private System.Windows.Forms.DataGridViewTextBoxColumn txt_Stock;
         private System.Windows.Forms.DataGridViewTextBoxColumn txt_Categoria;
+        private System.Windows.Forms.Panel pnl_Admin;
+        private System.Windows.Forms.Button btn_AdminZone;
     }
 }

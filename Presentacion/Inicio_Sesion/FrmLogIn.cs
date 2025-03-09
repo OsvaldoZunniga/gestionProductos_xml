@@ -12,20 +12,20 @@ using Presentacion.MenuAdmin;
 using Presentacion.Menu;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.IO;
+using System.Xml;
 
 namespace Presentacion
 {
     public partial class FrmLogIn : Form
     {
         BOUsuarios boUsuarios = new BOUsuarios();
-        public BOCrearXml boCrearXml;
-        string ruta = "Datos.xml";
+
+        private string ruta = "Datos.xml";
 
         public FrmLogIn()
         {
             InitializeComponent();
-            boCrearXml = new BOCrearXml();
-            CrearXML();
+            
         }
 
         private void txt_Usuario_Click(object sender, EventArgs e)
@@ -45,21 +45,32 @@ namespace Presentacion
 
         private void btn_Aceptar_Click(object sender, EventArgs e)
         {
-            //new Menu.FrmComprar().Show();
-            new FrmMenuAdmin().Show();
-            this.Hide();
+
+            ValidarUsuario(txt_Usuario.Text);   
         }
 
-        public void CrearXML()
+
+
+        public void ValidarUsuario(string usuario)
         {
-            if (!File.Exists(ruta))
+            List<string> cedulas = boUsuarios.ObtenerCedulas(ruta);
+            if (cedulas.Contains(usuario))
             {
-                boCrearXml.CrearXML(ruta, "Usuarios");
+                //new Menu.FrmComprar().Show();
+                FrmComprar frmComprar = new FrmComprar();
+                frmComprar.Show();
+                frmComprar.ValidarUsuario(usuario);
+
+                //this.Hide();
             }
             else
             {
-                boCrearXml.LeerXML(ruta);
+                MessageBox.Show("Usuario no encontrado");
             }
         }
+
+        
+
+        
     }
 }

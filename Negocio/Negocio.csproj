@@ -44,7 +44,6 @@
     <Compile Include="BOProductos.cs" />
     <Compile Include="BOCompra.cs" />
     <Compile Include="BOUsuarios.cs" />
-    <Compile Include="BOCrearXml.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

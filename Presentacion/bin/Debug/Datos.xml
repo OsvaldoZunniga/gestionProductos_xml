@@ -1,2 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Estudiantes />
+<Usuarios>
+  <usuario>
+    <IdUsuario>208700778</IdUsuario>
+    <Nombre>Osvaldo</Nombre>
+    <Genero>Masculino</Genero>
+  </usuario>
+  <usuario>
+    <IdUsuario>208721</IdUsuario>
+    <Nombre>Mickey</Nombre>
+    <Genero>Masculino</Genero>
+  </usuario>
+  <usuario>
+    <IdUsuario>20870</IdUsuario>
+    <Nombre>Admin</Nombre>
+    <Genero>Masculino</Genero>
+  </usuario>
+</Usuarios>

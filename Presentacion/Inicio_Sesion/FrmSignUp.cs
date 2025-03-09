@@ -16,25 +16,28 @@ namespace Presentacion
     public partial class FrmSignUp : Form
     {
         BOUsuarios boUsuarios = new BOUsuarios();
-        public BOCrearXml boCrearXml;
+        
         string ruta = "Datos.xml";
         public FrmSignUp()
         {
             InitializeComponent();
-            boCrearXml = new BOCrearXml();
+            
             CrearXML();
             
         }
 
         private void lbl_LogIn_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            new FrmLogIn().Show();
-            this.Close();
+            this.Close(); //Regresa al FrmLogIn
         }
 
         private void btn_Aceptar_Click(object sender, EventArgs e)
         {
-            
+            if (txt_newUser_Id.Text == "Ingresa tu ID:" || txt_newUser_Nombre.Text == "Ingresa tu nombre:" || cmb_NewUser_Genero.Text == "-Elige un genero-")
+            {
+                MessageBox.Show("Por favor llena todos los campos");
+                return;
+            }
 
             //Crear usuario en xml
             OBJUsuario user = new OBJUsuario 
@@ -78,11 +81,11 @@ namespace Presentacion
         {
             if (!File.Exists(ruta))
             {
-                boCrearXml.CrearXML(ruta, "Usuarios");
+                boUsuarios.CrearXML(ruta, "Usuarios");
             }
             else
             {
-                boCrearXml.LeerXML(ruta);
+                boUsuarios.LeerXML(ruta);
             }
         }
 

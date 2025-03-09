@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F67F3C11-7EEE-452E-8298-C697CF3B7FDB}|Negocio\\Negocio.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\negocio\\bousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67F3C11-7EEE-452E-8298-C697CF3B7FDB}|Negocio\\Negocio.csproj|solutionrelative:negocio\\bousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\presentacion\\inicio_sesion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio_sesion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\presentacion\\inicio_sesion\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio_sesion\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\presentacion\\inicio_sesion\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio_sesion\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\presentacion\\menucliente\\frmcomprar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\presentacion\\menucliente\\frmcomprar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\menucliente\\frmcomprar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\presentacion\\menuadmin\\frmmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\menuadmin\\frmmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\presentacion\\menuadmin\\frmmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\menuadmin\\frmmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\presentacion\\menuadmin\\submenus\\frmsubmenuproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\menuadmin\\submenus\\frmsubmenuproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\semana 7\\lab 2\\gestion_productos_xml\\presentacion\\menuadmin\\submenus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\menuadmin\\submenus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\presentacion\\menucliente\\frmcomprar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6D40E6-D2FB-4B10-9EB0-6E36D5333E0F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\menucliente\\frmcomprar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67F3C11-7EEE-452E-8298-C697CF3B7FDB}|Negocio\\Negocio.csproj|C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\negocio\\bousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67F3C11-7EEE-452E-8298-C697CF3B7FDB}|Negocio\\Negocio.csproj|solutionrelative:negocio\\bousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,71 +65,94 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\SubMenus\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuAdmin\\SubMenus\\Form1.cs",
+              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\SubMenus\\Form1.cs [Design]",
+              "RelativeToolTip": "Presentacion\\MenuAdmin\\SubMenus\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:49:24.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmLogIn.cs",
-              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\Inicio_Sesion\\FrmLogIn.cs",
-              "RelativeDocumentMoniker": "Presentacion\\Inicio_Sesion\\FrmLogIn.cs",
-              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\Inicio_Sesion\\FrmLogIn.cs",
-              "RelativeToolTip": "Presentacion\\Inicio_Sesion\\FrmLogIn.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwDwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:37:40.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmSignUp.cs",
-              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\Inicio_Sesion\\FrmSignUp.cs",
-              "RelativeDocumentMoniker": "Presentacion\\Inicio_Sesion\\FrmSignUp.cs",
-              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\Inicio_Sesion\\FrmSignUp.cs",
-              "RelativeToolTip": "Presentacion\\Inicio_Sesion\\FrmSignUp.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwFYAAAAJAAAAAAAAAA==",
+              "Title": "FrmMenuAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\FrmMenuAdmin.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuAdmin\\FrmMenuAdmin.cs",
+              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\FrmMenuAdmin.cs",
+              "RelativeToolTip": "Presentacion\\MenuAdmin\\FrmMenuAdmin.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwC8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T02:42:00.375Z",
+              "WhenOpened": "2025-03-08T07:47:15.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmSignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\Inicio_Sesion\\FrmSignUp.cs",
-              "RelativeDocumentMoniker": "Presentacion\\Inicio_Sesion\\FrmSignUp.cs",
-              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\Inicio_Sesion\\FrmSignUp.cs [Design]",
-              "RelativeToolTip": "Presentacion\\Inicio_Sesion\\FrmSignUp.cs [Design]",
+              "Title": "FrmSubMenuProductos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\SubMenus\\FrmSubMenuProductos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuAdmin\\SubMenus\\FrmSubMenuProductos.cs",
+              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\SubMenus\\FrmSubMenuProductos.cs [Design]",
+              "RelativeToolTip": "Presentacion\\MenuAdmin\\SubMenus\\FrmSubMenuProductos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T02:41:47.451Z",
+              "WhenOpened": "2025-03-08T06:28:00.082Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "FrmMenuAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\FrmMenuAdmin.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuAdmin\\FrmMenuAdmin.cs",
+              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuAdmin\\FrmMenuAdmin.cs [Design]",
+              "RelativeToolTip": "Presentacion\\MenuAdmin\\FrmMenuAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:25:05.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FrmComprar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuCliente\\FrmComprar.cs",
               "RelativeDocumentMoniker": "Presentacion\\MenuCliente\\FrmComprar.cs",
               "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuCliente\\FrmComprar.cs [Design]",
               "RelativeToolTip": "Presentacion\\MenuCliente\\FrmComprar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T23:10:41.14Z",
+              "WhenOpened": "2025-03-08T06:00:59.524Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "FrmComprar.cs",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuCliente\\FrmComprar.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuCliente\\FrmComprar.cs",
+              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Presentacion\\MenuCliente\\FrmComprar.cs",
+              "RelativeToolTip": "Presentacion\\MenuCliente\\FrmComprar.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAhwDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:19:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BOUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Negocio\\BOUsuarios.cs",
               "RelativeDocumentMoniker": "Negocio\\BOUsuarios.cs",
               "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\Semana 7\\Lab 2\\gestion_productos_xml\\Negocio\\BOUsuarios.cs",
               "RelativeToolTip": "Negocio\\BOUsuarios.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAnwFEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:38:20.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T22:38:20.515Z"
             }
           ]
         }

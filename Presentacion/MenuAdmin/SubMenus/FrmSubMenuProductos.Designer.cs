@@ -161,7 +161,7 @@
             this.panel1.BackColor = System.Drawing.Color.Gray;
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.button2);
-            this.panel1.Location = new System.Drawing.Point(329, 60);
+            this.panel1.Location = new System.Drawing.Point(297, 62);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(156, 139);
             this.panel1.TabIndex = 14;
@@ -189,7 +189,7 @@
             this.panel2.Controls.Add(this.textBox3);
             this.panel2.Controls.Add(this.label6);
             this.panel2.Controls.Add(this.textBox2);
-            this.panel2.Location = new System.Drawing.Point(12, 9);
+            this.panel2.Location = new System.Drawing.Point(12, 23);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(214, 277);
             this.panel2.TabIndex = 16;
@@ -198,7 +198,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(514, 295);
+            this.ClientSize = new System.Drawing.Size(536, 316);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "FrmSubMenuProductos";

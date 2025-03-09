@@ -31,15 +31,15 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmSignUp));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.cmb_NewUser_Genero = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txt_newUser_Nombre = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.lbl_LogIn = new System.Windows.Forms.LinkLabel();
             this.btn_Aceptar = new System.Windows.Forms.Button();
             this.txt_newUser_Id = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.txt_newUser_Nombre = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.cmb_NewUser_Genero = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -73,6 +73,49 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(258, 232);
             this.panel1.TabIndex = 1;
+            // 
+            // cmb_NewUser_Genero
+            // 
+            this.cmb_NewUser_Genero.ForeColor = System.Drawing.Color.Gray;
+            this.cmb_NewUser_Genero.FormattingEnabled = true;
+            this.cmb_NewUser_Genero.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.cmb_NewUser_Genero.Location = new System.Drawing.Point(49, 126);
+            this.cmb_NewUser_Genero.Name = "cmb_NewUser_Genero";
+            this.cmb_NewUser_Genero.Size = new System.Drawing.Size(169, 21);
+            this.cmb_NewUser_Genero.TabIndex = 8;
+            this.cmb_NewUser_Genero.Text = "-Elige un genero-";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(50, 110);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(45, 13);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Genero:";
+            // 
+            // txt_newUser_Nombre
+            // 
+            this.txt_newUser_Nombre.ForeColor = System.Drawing.Color.Gray;
+            this.txt_newUser_Nombre.Location = new System.Drawing.Point(49, 80);
+            this.txt_newUser_Nombre.Name = "txt_newUser_Nombre";
+            this.txt_newUser_Nombre.Size = new System.Drawing.Size(169, 20);
+            this.txt_newUser_Nombre.TabIndex = 6;
+            this.txt_newUser_Nombre.Text = "Ingresa tu nombre:";
+            this.txt_newUser_Nombre.Click += new System.EventHandler(this.txt_Nombre_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(50, 64);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(47, 13);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "Nombre:";
             // 
             // pictureBox2
             // 
@@ -125,48 +168,6 @@
             this.label1.Size = new System.Drawing.Size(21, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "ID:";
-            // 
-            // txt_newUser_Nombre
-            // 
-            this.txt_newUser_Nombre.ForeColor = System.Drawing.Color.Gray;
-            this.txt_newUser_Nombre.Location = new System.Drawing.Point(49, 80);
-            this.txt_newUser_Nombre.Name = "txt_newUser_Nombre";
-            this.txt_newUser_Nombre.Size = new System.Drawing.Size(169, 20);
-            this.txt_newUser_Nombre.TabIndex = 6;
-            this.txt_newUser_Nombre.Text = "Ingresa tu nombre:";
-            this.txt_newUser_Nombre.Click += new System.EventHandler(this.txt_Nombre_Click);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(50, 64);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(47, 13);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "Nombre:";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(50, 110);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(45, 13);
-            this.label3.TabIndex = 7;
-            this.label3.Text = "Genero:";
-            // 
-            // cmb_NewUser_Genero
-            // 
-            this.cmb_NewUser_Genero.FormattingEnabled = true;
-            this.cmb_NewUser_Genero.Items.AddRange(new object[] {
-            "-Elige Genero-",
-            "Masculino",
-            "Femenino"});
-            this.cmb_NewUser_Genero.Location = new System.Drawing.Point(49, 126);
-            this.cmb_NewUser_Genero.Name = "cmb_NewUser_Genero";
-            this.cmb_NewUser_Genero.Size = new System.Drawing.Size(169, 21);
-            this.cmb_NewUser_Genero.TabIndex = 8;
             // 
             // FrmSignUp
             // 
